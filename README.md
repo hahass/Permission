@@ -1,2 +1,1 @@
-# Permission
-权限管理系统
+本项目是一个基础的spring框架项目
